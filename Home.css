@@ -1,0 +1,346 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 3540px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n_1__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 300px;
+	overflow: visible;
+}
+#n__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12 {
+	fill: rgba(255,144,134,1);
+}
+.n_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_13 {
+	fill: rgba(255,144,134,1);
+}
+.n_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+}
+#Ruka_Touges_Portfolio {
+	left: 486px;
+	top: 90px;
+	position: absolute;
+	overflow: visible;
+	width: 950px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#n_ {
+	left: 600px;
+	top: 930px;
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: BIZ UDPGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#ruka_geme {
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 710px;
+	top: 504px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: ___.html;
+	cursor: pointer;
+}
+#n__q {
+	left: 585px;
+	top: 1067px;
+	position: absolute;
+	overflow: visible;
+	width: 751px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(71,42,39,1);
+}
+#n_1__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1380px;
+	overflow: visible;
+}
+#n__1_s {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12_t {
+	fill: rgba(255,144,134,1);
+}
+.n_12_t {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#ruka_voi {
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 335px;
+	top: 1670px;
+	overflow: visible;
+}
+#ruka_voi_v {
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 1085px;
+	top: 1670px;
+	overflow: visible;
+}
+#Text {
+	left: 385px;
+	top: 2233px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(71,42,39,1);
+}
+#Text_x {
+	left: 1210px;
+	top: 2233px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(71,42,39,1);
+}
+#n_2__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2460px;
+	overflow: visible;
+}
+#n_1__3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n__1_ {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12_ {
+	fill: rgba(255,144,134,1);
+}
+.n_12_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_14 {
+	fill: rgba(255,144,134,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_14 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 20px;
+}
+#Self_Introduction {
+	left: 600px;
+	top: 2570px;
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#n_15 {
+	fill: rgba(71,42,39,1);
+}
+.n_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 300px;
+}
+#Game {
+	left: 710px;
+	top: 313px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#Voice {
+	left: 1082px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#Intro {
+	left: 1393px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#Home_ {
+	left: 383px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#n____4____ {
+	left: 98px;
+	top: 2890px;
+	position: absolute;
+	overflow: visible;
+	width: 1726px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(71,42,39,1);
+}

@@ -1,0 +1,506 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 5696px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#n_1__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 300px;
+	overflow: visible;
+}
+#n__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12 {
+	fill: rgba(255,144,134,1);
+}
+.n_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_13 {
+	fill: rgba(255,144,134,1);
+}
+.n_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+}
+#Ruka_Touges_Portfolio {
+	left: 486px;
+	top: 90px;
+	position: absolute;
+	overflow: visible;
+	width: 950px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#n_ {
+	left: 360px;
+	top: 529px;
+	position: absolute;
+	overflow: visible;
+	width: 1201px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(71,42,39,1);
+}
+#n_2__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1380px;
+	overflow: visible;
+}
+#n_1__3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n__1_r {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12_s {
+	fill: rgba(255,144,134,1);
+}
+.n_12_s {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_14 {
+	fill: rgba(255,144,134,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_14 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 20px;
+}
+#Text {
+	left: 800px;
+	top: 1510px;
+	position: absolute;
+	overflow: visible;
+	width: 321px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#n_15 {
+	fill: rgba(71,42,39,1);
+}
+.n_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 300px;
+}
+#Text_w {
+	left: 681px;
+	top: 313px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#Text_x {
+	left: 1096px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#Play {
+	left: 1403px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#Home_z {
+	left: 383px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,248,248,1);
+}
+#n____ {
+	left: 150px;
+	top: 1864px;
+	position: absolute;
+	overflow: visible;
+	width: 1621px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(71,42,39,1);
+}
+#n_2__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2460px;
+	overflow: visible;
+}
+#n_1__3_ {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n__1_ {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12_ {
+	fill: rgba(255,144,134,1);
+}
+.n_12_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_14_ {
+	fill: rgba(255,144,134,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_14_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 20px;
+}
+#Text_ {
+	left: 880px;
+	top: 2590px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#UI_ {
+	left: 210px;
+	top: 3070px;
+	position: absolute;
+	overflow: visible;
+	width: 1501px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(71,42,39,1);
+}
+#n_2__3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 3540px;
+	overflow: visible;
+}
+#n_1__3_ba {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n__1_ba {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12_bb {
+	fill: rgba(255,144,134,1);
+}
+.n_12_bb {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_14_bc {
+	fill: rgba(255,144,134,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_14_bc {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 20px;
+}
+#Play_bd {
+	left: 880px;
+	top: 3670px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#n_2__4 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 4620px;
+	overflow: visible;
+}
+#n_1__3_bf {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n__1_bg {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12_bh {
+	fill: rgba(255,144,134,1);
+}
+.n_12_bh {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 1050px;
+}
+#n_14_bi {
+	fill: rgba(255,144,134,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_14_bi {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 300px;
+	left: 0px;
+	top: 20px;
+}
+#Text_bj {
+	left: 880px;
+	top: 4750px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Happy_end_Bad_end_True_end_ {
+	left: 300px;
+	top: 5180px;
+	position: absolute;
+	overflow: visible;
+	width: 1321px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(71,42,39,1);
+}
+#title {
+	position: absolute;
+	width: 558px;
+	height: 308px;
+	left: 681px;
+	top: 795px;
+	overflow: visible;
+}
+#amu_sutil1 {
+	position: absolute;
+	width: 558px;
+	height: 308px;
+	left: 73px;
+	top: 795px;
+	overflow: visible;
+}
+#n_17 {
+	position: absolute;
+	width: 558px;
+	height: 308px;
+	left: 1289px;
+	top: 795px;
+	overflow: visible;
+}
+#n_16 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1024px;
+	height: 576px;
+	left: 448px;
+	top: 3930px;
+}
